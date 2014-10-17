@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[siy:home|Door43 (siy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-siy|d43-siy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-siy/archive/master.zip|d43-siy.zip]]
+
+**Recent Changes**
+{{changes>ns = siy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/siy|Ethnologue data]]
+
